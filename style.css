@@ -1,0 +1,48 @@
+.navbar{
+    background-color:black
+}
+
+.navbar-brand img {
+    margin-top: -20px; /* Add space between the image and the navbar */
+  }
+
+  .navbar-nav .nav-link {
+    margin-right: 30px; /* Add space between the nav items */
+  }
+
+
+  .aaa h6 {
+
+     
+    padding-left:250px; /* Add padding around the h6 elements */
+  }
+  .zz:hover {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    transform: scale(1.05);
+    transition: all 0.5s ease-in-out;
+  }
+
+  .first-line {
+    width: 150px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 8px;
+    color: transparent;
+    background-color: #ff305b;
+    height: 1px;
+   
+  }
+  .second-line {
+    width: 100px;
+    height: 1px;
+    margin: auto;
+    margin-bottom: 4px;
+    border-color: #ff305b;
+    background-color: #ff305b;
+  }
+
+  .category-title .navbar {
+    justify-content: space-evenly;
+  }
+
+  
